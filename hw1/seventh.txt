@@ -1,0 +1,7 @@
+Immediately before the fork. Only one process at this point.
+node A. Pid is 211779
+	node B. Pid is 211780, parent's pid is 211779
+		node D. Pid is 211781, parent's pid is 211780
+	node C. Pid is 211782, parent's pid is 211779
+		node E. Pid is 211783, parent's pid is 211782
+		node F. Pid is 211784, parent's pid is 211782

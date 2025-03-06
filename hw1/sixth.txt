@@ -1,0 +1,5 @@
+Immediately before the fork. Only one process at this point.
+Immediately after the fork. This statement should print twice.
+Immediately after the fork. This statement should print twice.
+I'm the child. My pid is 211660. My parent's pid is 211659.
+I'm the parent. My pid is 211659. My child's pid is 211660.
